@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Guidomia</string>
+    <string name="tacoma_2021">Tacoma 2021</string>
+    <string name="get_yours_now">Get your\'s now</string>
+    <string name="filters">Filters</string>
+    <string name="any_make">Any make</string>
+    <string name="any_model">Any model</string>
+    <string name="pros">Pros:</string>
+    <string name="cons">Cons:</string>
+    <string name="price">Price : </string>
+    <string name="land_rover">Land Rover</string>
+    <string name="range_rover">Range Rover</string>
+    <string name="alpine">Alpine</string>
+    <string name="roadster">Roadster</string>
+    <string name="bmw">BMW</string>
+    <string name="bmw_model">3300i</string>
+    <string name="mercedes">Mercedes Benz</string>
+    <string name="coupe">GLE coupe</string>
+    <string name="no_car_found">No car found</string>
+
+</resources>

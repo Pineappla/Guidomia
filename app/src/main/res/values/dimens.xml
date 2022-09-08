@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_38">38sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_21">21sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_16">16sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="touch_size">48dp</dimen>
+    <dimen name="small_touch_size">40dp</dimen>
+
+    <dimen name="banner_image_height">250dp</dimen>
+    <dimen name="car_list_height">80dp</dimen>
+    <dimen name="car_list_width">140dp</dimen>
+    <dimen name="divider_size">2dp</dimen>
+</resources>
